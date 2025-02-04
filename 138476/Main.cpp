@@ -6,6 +6,12 @@
 
 using namespace std;
 
+/// <summary>
+/// https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=cpp
+/// </summary>
+/// <param name="k"></param>
+/// <param name="tangerine"></param>
+/// <returns></returns>
 int solution(int k, vector<int> tangerine) {
     int answer = 0;
 
