@@ -10,11 +10,11 @@ using namespace std;
 /// <param name="right"></param>
 /// <returns></returns>
 int solution(int left, int right) {
-    int answer = 0;
-    return answer;
+	int answer = 0;
+	return answer;
 }
 
-int main() 
+int main()
 {
 
 }
